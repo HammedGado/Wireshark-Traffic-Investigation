@@ -1,4 +1,4 @@
-# Wireshark Lab 1 – Traffic Investigation
+# Wireshark Traffic Investigation
 
 ## Objective
 
